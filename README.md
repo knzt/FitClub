@@ -1,46 +1,36 @@
-# fitclub
+<h1 align="center">:muscle: FitClub</h1>
 
-## Table of Contents
+</center>
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+## :hash: índice
 
-## About <a name = "about"></a>
+- [Sobre](#about)
+- [Tecnologias utilizadas](#tecnologies)
+- [Instalação](#install)
+- [Uso](#usage)
+- [Créditos](#credits)
 
-Write about 1-2 paragraphs describing the purpose of your project.
+## :clipboard: Sobre <a name = "about"></a>
 
-## Getting Started <a name = "getting_started"></a>
+Site completo, dinâmico e responsivo (compatível com dispositivos móveis) para um clube fitness, criado para fins de portfólio. O site apresenta informações sobre o clube, seus serviços, planos disponíveis e depoimentos, além de permitir que os usuários entrem em contato via e-mail.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+## :wrench: Tecnologias utilizadas <a name = "tecnologies"></a>
 
-### Prerequisites
+- [React](https://legacy.reactjs.org/docs/getting-started.html): uma biblioteca JavaScript para construir interfaces de usuário.
+- [Yarn](https://yarnpkg.com/): um gerenciador de pacotes para o ecossistema Node.js.
+- [Framer Motion](https://www.framer.com/motion/): uma biblioteca de animação para React que permite criar animações fluidas e interativas.
+- [Number Counter](https://www.npmjs.com/package/number-counter): um componente React para animar contadores numéricos.
 
-What things you need to install the software and how to install them.
+## :open_file_folder: Instalação <a name = "install"></a>
 
-```
-Give examples
-```
+1. Clone este repositório em sua máquina local usando o comando `git clone https://github.com/knzt/FitClub.git`.
+2. Navegue até o diretório raiz do projeto usando o comando `cd FitClub`.
+3. Instale as dependências do projeto usando o comando `yarn install`.
 
-### Installing
+## :on: Uso <a name = "usage"></a>
 
-A step by step series of examples that tell you how to get a development env running.
+Para iniciar o servidor de desenvolvimento, execute o comando `yarn start` no terminal. Isso iniciará o aplicativo em seu navegador padrão na porta 3000.
 
-Say what the step will be
+## :copyright: Créditos <a name = "credits"></a>
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
+Este projeto foi inspirado no template starter [FitClub-Starter](https://github.com/ZainRk/FitClub-Starter/tree/master/public), criado por [ZainRk](https://github.com/ZainRk).
